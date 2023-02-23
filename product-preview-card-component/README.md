@@ -10,9 +10,6 @@ This is a solution to the [Product preview card component challenge on Frontend 
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
 - [Author](#author)
 
 
@@ -33,7 +30,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/MousteeM/FE-projects/tree/master/product-preview-card-component)
+- Solution URL: [Find solution URL here](https://github.com/MousteeM/FE-projects/tree/master/product-preview-card-component)
 
 
 ### Built with
